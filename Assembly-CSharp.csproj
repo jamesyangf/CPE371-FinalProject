@@ -72,11 +72,11 @@
     <Compile Include="Assets\Scripts\PlayerShooting.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <None Include="Assets\Fonts\LuckiestGuy\LICENSE.txt" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/School/2017-2018 Q3/CSC 371/CPE371-FinalProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/School/2017-2018 Q3/CSC 371/CPE371-FinalProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>D:/School/2017-2018 Q3/CSC 371/CPE371-FinalProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Applications/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
